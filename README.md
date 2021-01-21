@@ -1,6 +1,6 @@
 # Farmstead Scene 
 
-Tools: three.js | Heroku | Node.js
+Tools: Three.js | Heroku | Node.js
 
 Demo: https://farmstead-js.herokuapp.com/
 
