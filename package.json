@@ -15,7 +15,7 @@
     "socket.io": "latest"
   },
   "engines": {
-    "node": "4.1.1"
+    "node": "15.6.0"
   },
   "repository": {
     "type": "git"
